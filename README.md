@@ -72,21 +72,6 @@ A **passionate AI & Software Engineer** with expertise in **Deep Learning, Full-
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prabal&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prabal&layout=compact&theme=radical)
-
----
-
-## 🏆 Achievements
-
-- **International Excellence Scholarship** at **University of Birmingham**
-- **Ranked 7999 out of 1.5M in JEE Advanced** (One of the toughest exams globally)
-- **Built an NLP Sentiment Analysis Model with 87% F1 Score**
-
----
-
 ## 🛠 Notable Projects
 
 ### 1️⃣ HateMod: Multi-Modal Hate Video Classification Model  
