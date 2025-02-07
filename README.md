@@ -90,7 +90,7 @@
 - Implemented **MLflow** for experiment tracking and **GPU-accelerated training** using **PyTorch**.  
 - Optimized deep learning pipeline to enhance **detection accuracy**.  
 
-### 2️⃣ MoneyMaven - Finance Tracking App  
+### 2️⃣ [MoneyMaven - Finance Tracking App](https://github.com/prblydv/Finance-Tracking-MoneyMaven)
 - **Led a team of 7** to develop a full-stack **financial analytics** application.  
 - Built an intuitive **UI/UX** using **Angular, Chart.js, and Math.js** for **data visualization**.  
 - Implemented **CI/CD pipeline** using GitLab for seamless deployment.  
