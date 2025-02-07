@@ -1,9 +1,6 @@
-<p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2hldmhycmZsZGQ3ZTc2aHI2MzUyY3Zxb2M5cXh3MDN2azM2Y2ZkcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zgduo4kWRRDVK/giphy.gif" width="100%" height="10%"/>
-</p>
 # Hi 👋, I'm Prabal
 
-A **passionate AI & Software Engineer** with expertise in **Deep Learning, Full-Stack Development, and Financial Data Analysis**. Currently pursuing **MEng in Computer Science (First Class)** at **University of Birmingham**.
+A **AI & Software Engineer** with expertise in **Deep Learning, Full-Stack Development, and Financial Data Analysis**. Currently pursuing **MEng in Computer Science (First Class)** at **University of Birmingham**.
 
 🔍 **Interested in AI Research, Software Engineering, and Financial Technologies**
 
