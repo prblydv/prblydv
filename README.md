@@ -85,7 +85,7 @@
 
 ## 🛠 Notable Projects
 
-### 1️⃣ HateMod: Multi-Modal Hate Video Classification Model  
+### 1️⃣ [HateMod: Multi-Modal Hate Video Classification Model](https://github.com/prblydv/Hate-Detection-Video-MultiModaL-DeepL)
 - Designed a **3-channel multi-modal AI model** combining **text, audio, and video** to detect hate speech in videos.  
 - Implemented **MLflow** for experiment tracking and **GPU-accelerated training** using **PyTorch**.  
 - Optimized deep learning pipeline to enhance **detection accuracy**.  
