@@ -95,7 +95,7 @@
 - Built an intuitive **UI/UX** using **Angular, Chart.js, and Math.js** for **data visualization**.  
 - Implemented **CI/CD pipeline** using GitLab for seamless deployment.  
 
-### 3️⃣ Forex Market Analysis  
+### 3️⃣ [Forex Market Analysis](https://github.com/prblydv/Forex-Market-Prediction-DeepL) 
 - **Developed financial models** for **currency pair analysis**, calculating statistical metrics for investment strategies.  
 
 ---
