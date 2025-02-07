@@ -1,4 +1,4 @@
-# Hi 👋, I'm Prabal
+# 0xP-R-A-B-A-L: System Activated ⚡
 
 **AI & Software Engineer** with expertise in **Deep Learning, Full-Stack Development, and Financial Data Analysis**. Currently pursuing **MEng in Computer Science (First Class)** at **University of Birmingham**.
 
