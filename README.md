@@ -1,4 +1,4 @@
-# 0xP_R_A_B_A_L: System Activated ⚡
+# 0xPRABAL: System Activated ⚡
 
 **AI & Software Engineer** with expertise in **Deep Learning, Full-Stack Development, and Financial Data Analysis**. Currently pursuing **MEng in Computer Science (First Class)** at **University of Birmingham**.
 
