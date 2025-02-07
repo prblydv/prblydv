@@ -6,7 +6,7 @@ A **passionate AI & Software Engineer** with expertise in **Deep Learning, Full-
 
 - 🔭 I’m currently working on **Multi-Modal Hate Video Classification**
 - 🌱 I’m currently learning **LLMs, Advanced Deep Learning, and Cloud Infrastructure**
-- 💬 Ask me about **Machine Learning, Neural Networks, and Financial Data Analysis**
+- 💬 Ask me about **Machine Learning, Neural Networks, Software Engineering, Mathematics and Buissness Data Analysis**
 - 📫 How to reach me: **yadavsk731@gmail.com**
 - ⚡ Fun fact: **I ranked 7999 out of 1.5M in JEE Advanced, one of the toughest exams in the world!**
 
