@@ -1,6 +1,6 @@
 # Hi 👋, I'm Prabal
 
-A **AI & Software Engineer** with expertise in **Deep Learning, Full-Stack Development, and Financial Data Analysis**. Currently pursuing **MEng in Computer Science (First Class)** at **University of Birmingham**.
+**AI & Software Engineer** with expertise in **Deep Learning, Full-Stack Development, and Financial Data Analysis**. Currently pursuing **MEng in Computer Science (First Class)** at **University of Birmingham**.
 
 🔍 **Interested in AI Research, Software Engineering, and Financial Technologies**
 
