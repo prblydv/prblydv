@@ -40,6 +40,7 @@ A **passionate AI & Software Engineer** with expertise in **Deep Learning, Full-
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50" height="50"/>
+  <img src="https://mlflow.org/images/favicon.png" width="50" height="50"/>
   <img src="https://huggingface.co/favicon.ico" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50" height="50"/>
