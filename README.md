@@ -1,4 +1,4 @@
-# 0xPRABAL: System Activated ⚡
+# PRABAL
 
 **AI & Software Engineer** with expertise in **Deep Learning, Full-Stack Development, and Financial Data Analysis**. Currently pursuing **MEng in Computer Science (First Class)** at **University of Birmingham**.
 
