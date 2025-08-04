@@ -1,4 +1,4 @@
-# Prabal Yadav
+# Prabal Singh
 
 Hi, I’m Prabal an AI and Software Engineer completed MEng Computer Science at the University of Birmingham. I’m passionate about building useful products with deep learning, and exploring how AI can be applied in real-world scenarios like finance and content moderation.
 
