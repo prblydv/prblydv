@@ -1,14 +1,17 @@
 # Prabal Yadav
 
-Hi, I’m Prabal — an AI and Software Engineer currently studying MEng Computer Science (First Class) at the University of Birmingham. I’m passionate about building useful products with deep learning, and exploring how AI can be applied in real-world scenarios like finance and content moderation.
+Hi, I’m Prabal an AI and Software Engineer completed MEng Computer Science at the University of Birmingham. I’m passionate about building useful products with deep learning, and exploring how AI can be applied in real-world scenarios like finance and content moderation.
 
 ---
 
 ###  What I’m Working On
 
-- Building a multi-modal model to classify hate speech in video content (text, audio, visual)
-- Exploring LLMs, cloud deployment, and advanced training techniques
-- Always tinkering with projects in finance, ML, and full-stack dev
+- Developing **TorchPINN**, a production-ready PyTorch library for solving partial differential equations using Physics-Informed Neural Networks  built from the ground up with modular design and research-grade scalability.
+- Building a **multi-modal model** to classify hate speech in video content using text, audio, and visual signals.
+- Creating a minimal and useful **college application assistant** that helps students shortlist universities, track deadlines, and organize application documents — all in one place.
+- Exploring LLMs, cloud deployment, and advanced deep learning training pipelines.
+- Always tinkering with side projects in finance, machine learning, and full-stack development.
+
 
 ---
 
