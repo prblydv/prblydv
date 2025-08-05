@@ -6,9 +6,9 @@ Hi, I’m Prabal an AI and Software Engineer completed MEng Computer Science at 
 
 ###  What I’m Working On
 
-- Developing **TorchPINN**, a production-ready PyTorch library for solving partial differential equations using Physics-Informed Neural Networks  built from the ground up with modular design and research-grade scalability.
+- Developing **TorchPINN**, a production-ready PyTorch library for solving partial differential equations using Physics Informed Neural Networks  built from the ground up with modular design and research-grade scalability.
 - Building a **multi-modal model** to classify hate speech in video content using text, audio, and visual signals.
-- Creating a minimal and useful **college application assistant** that helps students shortlist universities, track deadlines, and organize application documents — all in one place.
+- Creating a minimal and useful **college application assistant** that helps students shortlist universities, track deadlines, and organize application documents, all in one place.
 - Exploring LLMs, cloud deployment, and advanced deep learning training pipelines.
 - Always tinkering with side projects in finance, machine learning, and full-stack development.
 
