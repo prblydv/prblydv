@@ -23,7 +23,7 @@ Hi, I’m Prabal an AI and Software Engineer completed MEng Computer Science at 
 
 ---
 
-###  Fun Fact
+###  Fact
 
 I ranked 7999 out of 1.5 million in JEE Advanced — one of the world’s toughest exams. It taught me how to enjoy solving difficult problems.
 
