@@ -39,9 +39,9 @@ I ranked 7999 out of 1.5 million in JEE Advanced — one of the world’s toughe
 
 ### 🛠️ Tools & Tech I Use
 
-**Languages**: Python, Java, JS/TS, C/C++, SQL  
+**Languages**: Python, C, SQL  
 **Frameworks**: PyTorch, TensorFlow, Flask, React, Node.js  
-**DevOps**: Docker, Git, Linux, GCP, Azure  
+**DevOps**: Docker, Git, Linux
 **ML/AI**: HuggingFace, OpenCV, scikit-learn, MLflow
 
 ---
