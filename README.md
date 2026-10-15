@@ -34,10 +34,6 @@ More research work: [time-series forecasting](https://github.com/prblydv/Forex-M
 | Development | Git, Docker, Linux, Jupyter |
 | Machine learning | PyTorch, Hugging Face, scikit-learn |
 
-1. **MEng Computer Science — First Class** — University of Birmingham.
-2. **Kaggle grammar-scoring challenge** — recorded **5th place** on the public leaderboard, with **0.3141 RMSE**, at the **15 October 2026** snapshot.
-3. **JEE Advanced** — All India Rank **7,999**.
-
 ## 4. Contact
 
 [Email](mailto:yadavsk731@gmail.com) · [LinkedIn](https://www.linkedin.com/in/prabalsingh12/) · [LeetCode](https://leetcode.com/u/prblydv/)
