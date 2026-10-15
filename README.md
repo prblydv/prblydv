@@ -6,8 +6,6 @@ First Class MEng in Computer Science, University of Birmingham.
 
 I build desktop applications, web products, and systems software. My projects range from financial dashboards and client–server applications to Python/C++ engines and machine-learning experiments. I care about clear interfaces, understandable code, and checking that things work.
 
-**Open to software engineering opportunities across backend, full-stack, desktop, and ML systems.**
-
 ## 1. Selected projects
 
 | Project | What I worked on | Area |
