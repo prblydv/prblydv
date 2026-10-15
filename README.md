@@ -1,7 +1,6 @@
 # Prabal Singh
 
-Hi, I’m Prabal completed MEng Computer Science at the University of Birmingham. I’m passionate about building useful products with deep learning and low level programming, and exploring how AI can be applied in real-world scenarios like finance and Media.
-
+I’m Prabal completed MEng Computer Science at the University of Birmingham. I like building useful products with deep learning and low level programming, and exploring how AI can be applied in real-world scenarios like finance and Media. This profile is a collection of tools I built and thought were worth sharing with the world.
 ---
 
 ###  What I’m Working On
