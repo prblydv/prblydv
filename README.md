@@ -23,7 +23,7 @@ More research work: [time-series forecasting](https://github.com/prblydv/Forex-M
 1. Understand the problem and start with a small, working version.
 2. Build clear interfaces between components and check the important behaviour.
 3. Investigate failures, document decisions, and improve the implementation.
-4. Use Codex as part of development while staying responsible for understanding and reviewing the result.
+4. Review the implementation, check the results, and keep the code understandable.
 
 ## 3. Skills and background
 
