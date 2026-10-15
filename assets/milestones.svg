@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="200" viewBox="0 0 1440 200" role="img" aria-labelledby="title desc">
+<title id="title">Selected milestones</title><desc id="desc">Recorded public leaderboard rank fifth in the SHL grammar assessment on 15 October 2026; MEng Computer Science; JEE Advanced rank 7999.</desc>
+<rect width="1440" height="200" rx="24" fill="#f5f7fb"/>
+<rect x="30" y="18" width="430" height="164" rx="14" fill="#ffffff" stroke="#e3e8f0"/>
+<text x="52" y="70" font-family="Inter,Arial,sans-serif" font-size="38" fill="#168c87" font-weight="700">5th</text>
+<text x="52" y="109" font-family="Inter,Arial,sans-serif" font-size="17" fill="#17243b" font-weight="600">SHL assessment · public leaderboard</text>
+<text x="52" y="146" font-family="Inter,Arial,sans-serif" font-size="13" fill="#68758a" font-weight="400">Recorded 15 Oct 2026 · public RMSE 0.3141</text>
+<rect x="505" y="18" width="430" height="164" rx="14" fill="#ffffff" stroke="#e3e8f0"/>
+<text x="527" y="70" font-family="Inter,Arial,sans-serif" font-size="38" fill="#5c65dd" font-weight="700">MEng</text>
+<text x="527" y="109" font-family="Inter,Arial,sans-serif" font-size="17" fill="#17243b" font-weight="600">Computer Science</text>
+<text x="527" y="146" font-family="Inter,Arial,sans-serif" font-size="13" fill="#68758a" font-weight="400">University of Birmingham</text>
+<rect x="980" y="18" width="430" height="164" rx="14" fill="#ffffff" stroke="#e3e8f0"/>
+<text x="1002" y="70" font-family="Inter,Arial,sans-serif" font-size="38" fill="#8057cf" font-weight="700">7,999</text>
+<text x="1002" y="109" font-family="Inter,Arial,sans-serif" font-size="17" fill="#17243b" font-weight="600">JEE Advanced · All India Rank</text>
+<text x="1002" y="146" font-family="Inter,Arial,sans-serif" font-size="13" fill="#68758a" font-weight="400">Personal academic milestone</text>
+</svg>

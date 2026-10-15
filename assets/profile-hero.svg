@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="440" viewBox="0 0 1440 440" role="img" aria-labelledby="title desc">
+<title id="title">Prabal Pratap Singh — machine learning and software engineering</title><desc id="desc">Software engineer in London. MEng Computer Science, University of Birmingham. Research, systems, and useful software.</desc>
+<rect width="1440" height="440" rx="24" fill="#0e1729"/>
+<text x="64" y="55" font-family="Inter,Arial,sans-serif" font-size="14" fill="#91a8ca" font-weight="600">PRBLYDV / LONDON</text>
+<text x="64" y="138" font-family="Inter,Arial,sans-serif" font-size="60" fill="#f5f7fc" font-weight="700">Prabal Pratap Singh</text>
+<text x="64" y="192" font-family="Inter,Arial,sans-serif" font-size="28" fill="#cfdaed" font-weight="500">Machine learning. Systems. Useful software.</text>
+<text x="64" y="235" font-family="Inter,Arial,sans-serif" font-size="18" fill="#91a8ca" font-weight="400">MEng Computer Science · University of Birmingham</text>
+<path d="M1060 94 L1160 154" stroke="#354764" stroke-width="2" fill="none"/>
+<circle cx="1060" cy="94" r="6" fill="#8ba0c3" stroke="none"/>
+<path d="M1220 74 L1160 154" stroke="#354764" stroke-width="2" fill="none"/>
+<circle cx="1220" cy="74" r="6" fill="#8ba0c3" stroke="none"/>
+<path d="M1345 144 L1160 154" stroke="#354764" stroke-width="2" fill="none"/>
+<circle cx="1345" cy="144" r="6" fill="#8ba0c3" stroke="none"/>
+<path d="M1250 236 L1160 154" stroke="#354764" stroke-width="2" fill="none"/>
+<circle cx="1250" cy="236" r="6" fill="#8ba0c3" stroke="none"/>
+<path d="M1080 236 L1160 154" stroke="#354764" stroke-width="2" fill="none"/>
+<circle cx="1080" cy="236" r="6" fill="#8ba0c3" stroke="none"/>
+<circle cx="1146" cy="154" r="12" fill="#6ed4c3" stroke="none"/>
+<circle cx="1174" cy="139" r="12" fill="#ad9ce9" stroke="none"/>
+<circle cx="1174" cy="169" r="12" fill="#83a9ec" stroke="none"/>
+<text x="1025" y="58" font-family="Inter,Arial,sans-serif" font-size="12" fill="#6ed4c3" font-weight="600">RESEARCH</text>
+<text x="1240" y="110" font-family="Inter,Arial,sans-serif" font-size="12" fill="#ad9ce9" font-weight="600">BUILD</text>
+<text x="1166" y="282" font-family="Inter,Arial,sans-serif" font-size="12" fill="#83a9ec" font-weight="600">EVALUATE</text>
+<rect x="64" y="325" width="420" height="82" rx="12" fill="#18243a" stroke="#2b3a53"/>
+<text x="84" y="355" font-family="Inter,Arial,sans-serif" font-size="12" fill="#6ed4c3" font-weight="600">ML RESEARCH</text>
+<text x="84" y="385" font-family="Inter,Arial,sans-serif" font-size="16" fill="#d2dcee" font-weight="400">Speech · language · multimodal learning</text>
+<rect x="510" y="325" width="420" height="82" rx="12" fill="#18243a" stroke="#2b3a53"/>
+<text x="530" y="355" font-family="Inter,Arial,sans-serif" font-size="12" fill="#ad9ce9" font-weight="600">SYSTEMS</text>
+<text x="530" y="385" font-family="Inter,Arial,sans-serif" font-size="16" fill="#d2dcee" font-weight="400">Python · C++ · training and evaluation</text>
+<rect x="956" y="325" width="420" height="82" rx="12" fill="#18243a" stroke="#2b3a53"/>
+<text x="976" y="355" font-family="Inter,Arial,sans-serif" font-size="12" fill="#83a9ec" font-weight="600">PRODUCTS</text>
+<text x="976" y="385" font-family="Inter,Arial,sans-serif" font-size="16" fill="#d2dcee" font-weight="400">Desktop tools · practical interfaces</text>
+</svg>
