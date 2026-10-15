@@ -1,59 +1,43 @@
-![Prabal Pratap Singh — machine learning, systems, and useful software](assets/profile-hero.svg)
+![Prabal Pratap Singh — Software Engineer](assets/profile-hero.svg)
 
-## 1. About me
+I’m **Prabal**, a software engineer in London with an **MEng in Computer Science from the University of Birmingham**.
 
-I’m **Prabal**, a software engineer based in London with an **MEng in Computer Science from the University of Birmingham**. I build machine-learning experiments, training systems, and practical applications.
+I build desktop applications, web products, and systems software. My projects range from financial dashboards and client–server applications to Python/C++ engines and machine-learning experiments. I care about clear interfaces, understandable code, and checking that things work.
 
-My work spans speech and language models, multimodal learning, game theory, and desktop software. I enjoy understanding an idea, testing its limits, and turning it into something people can inspect or use.
+**Open to software engineering opportunities across backend, full-stack, desktop, and ML systems.**
 
-## 2. Selected work
+## 1. Selected projects
 
-Click a card to explore the code, design choices, and results.
+| Project | What I worked on | Area |
+|---|---|---|
+| [TradeLens](https://github.com/prblydv/tradelens) | A Windows application that connects to MetaTrader 5 for read-only trade-risk analysis | Desktop software · Python |
+| [MoneyMaven](https://github.com/prblydv/Finance-Tracking-MoneyMaven) | A team project for tracking income, expenses, and budgets with Angular, Spring Boot, and PostgreSQL | Full-stack development |
+| [pokerCFR](https://github.com/prblydv/pokerCFR) | Python and C++ game engines, resumable training, evaluation tools, and a desktop GUI | Systems · C++ · Python |
+| [TCP client–server application](https://github.com/prblydv/implementing_client_server_app_TCP) | A Java application connecting multiple clients to a database-backed server using TCP and JDBC | Backend · Networking · SQL |
+| [Spoken grammar scoring](https://github.com/prblydv/shl-grammar-scoring) | A documented pipeline combining text and audio models, validation, and error analysis | Machine learning |
 
-<table>
-  <tr>
-    <td width="50%"><a href="https://github.com/prblydv/shl-grammar-scoring"><img src="assets/grammar-scoring.svg" alt="Spoken grammar scoring: text, speech features, spectrograms, grouped validation, and error analysis" width="100%"></a></td>
-    <td width="50%"><a href="https://github.com/prblydv/pokerCFR"><img src="assets/poker-cfr.svg" alt="pokerCFR: Python and C++ engines, Deep CFR training, evaluation, and a desktop GUI" width="100%"></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://github.com/prblydv/Hate-Detection-Video-MultiModaL-DeepL"><img src="assets/multimodal-hate.svg" alt="Video hate-speech detection: research combining text, audio, and visual signals" width="100%"></a></td>
-    <td width="50%"><a href="https://github.com/prblydv/tradelens"><img src="assets/tradelens.svg" alt="TradeLens: a read-only Windows companion for understanding MT5 trade risk" width="100%"></a></td>
-  </tr>
-</table>
+More research work: [multimodal video classification](https://github.com/prblydv/Hate-Detection-Video-MultiModaL-DeepL) and [time-series forecasting](https://github.com/prblydv/Forex-Market-Prediction-DeepL).
 
-Other explorations include [physics-informed neural networks](https://github.com/prblydv/torchpinn), [time-series forecasting](https://github.com/prblydv/Forex-Market-Prediction-DeepL), [LLM preference classification](https://github.com/prblydv/llm-classification-finetuning), and [evolutionary optimization](https://github.com/prblydv/Solving-TSP-with-Evolutionary-Algorithms).
+## 2. How I work
 
-## 3. Milestones
+1. Understand the problem and start with a small, working version.
+2. Build clear interfaces between components and check the important behaviour.
+3. Investigate failures, document decisions, and improve the implementation.
+4. Use Codex as part of development while staying responsible for understanding and reviewing the result.
 
-![Milestones: recorded fifth place on the SHL public leaderboard, MEng Computer Science, and JEE Advanced rank 7999](assets/milestones.svg)
+## 3. Skills and background
 
-1. **SHL grammar-scoring assessment:** recorded **5th place** on the public Kaggle leaderboard, with **0.3141 public RMSE**, at the saved **15 October 2026** snapshot. The [project report](https://github.com/prblydv/shl-grammar-scoring) explains the method, development scores, and generalization limits. This is a historical public result; the private score is unknown.
-2. **MEng Computer Science**, University of Birmingham.
-3. **JEE Advanced: All India Rank 7,999.** An early milestone that helped build my interest in difficult technical problems.
-
-## 4. How I work
-
-1. **Research first.** Read related papers and earlier competition solutions, then turn useful ideas into testable hypotheses.
-2. **Build a baseline.** Start with a simple approach that is easy to understand and compare against.
-3. **Inspect the failures.** Check the data, validation splits, and errors before adding model complexity.
-4. **Keep the work explainable.** Record settings, unsuccessful experiments, and what the evidence does and does not support.
-5. **Use AI tools thoughtfully.** Codex is part of my development workflow. I focus on understanding the approach, checking the implementation, and being able to explain the result.
-
-## 5. Tools I use
-
-| Area | Tools |
+| Area | Technologies |
 |---|---|
-| Machine learning | PyTorch, Hugging Face, scikit-learn, TensorFlow, OpenCV |
-| Languages and systems | Python, C++, C, SQL, Linux |
-| Applications | React, TypeScript, Node.js, Flask |
-| Development | Git, Docker, Jupyter, Codex |
+| Languages | Python, Java, C++, C, TypeScript, SQL |
+| Web and backend | Angular, React, Spring Boot, Node.js, Flask, PostgreSQL |
+| Development | Git, Docker, Linux, Jupyter |
+| Machine learning | PyTorch, Hugging Face, scikit-learn |
 
-## 6. Get in touch
+1. **MEng Computer Science** — University of Birmingham.
+2. **SHL Kaggle assessment** — recorded **5th place** on the public leaderboard, with **0.3141 RMSE**, at the **15 October 2026** snapshot. [Method and evaluation details](https://github.com/prblydv/shl-grammar-scoring).
+3. **JEE Advanced** — All India Rank **7,999**.
 
-I’m interested in conversations about research engineering, machine learning, and building useful software.
+## 4. Contact
 
-1. **Email:** [yadavsk731@gmail.com](mailto:yadavsk731@gmail.com)
-2. **LinkedIn:** [prabalsingh12](https://www.linkedin.com/in/prabalsingh12/)
-3. **LeetCode:** [prblydv](https://leetcode.com/u/prblydv/)
-
-<sub>Profile refreshed on 15 October 2026. Project results are linked to their original context.</sub>
+[Email](mailto:yadavsk731@gmail.com) · [LinkedIn](https://www.linkedin.com/in/prabalsingh12/) · [LeetCode](https://leetcode.com/u/prblydv/)
