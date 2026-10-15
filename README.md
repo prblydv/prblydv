@@ -14,9 +14,9 @@ I build desktop applications, web products, and systems software. My projects ra
 | [MoneyMaven](https://github.com/prblydv/Finance-Tracking-MoneyMaven) | A team project for tracking income, expenses, and budgets with Angular, Spring Boot, and PostgreSQL | Full-stack development |
 | [pokerCFR](https://github.com/prblydv/pokerCFR) | Python and C++ game engines, resumable training, evaluation tools, and a desktop GUI | Systems · C++ · Python |
 | [TCP client–server application](https://github.com/prblydv/implementing_client_server_app_TCP) | A Java application connecting multiple clients to a database-backed server using TCP and JDBC | Backend · Networking · SQL |
-| [Spoken grammar scoring](https://github.com/prblydv/shl-grammar-scoring) | A documented pipeline combining text and audio models, validation, and error analysis | Machine learning |
+| [Multimodal video classification](https://github.com/prblydv/Hate-Detection-Video-MultiModaL-DeepL) | A research project combining text, audio, and visual features for hate-speech detection | Machine learning |
 
-More research work: [multimodal video classification](https://github.com/prblydv/Hate-Detection-Video-MultiModaL-DeepL) and [time-series forecasting](https://github.com/prblydv/Forex-Market-Prediction-DeepL).
+More research work: [time-series forecasting](https://github.com/prblydv/Forex-Market-Prediction-DeepL) and [LLM preference classification](https://github.com/prblydv/llm-classification-finetuning).
 
 ## 2. How I work
 
@@ -35,7 +35,7 @@ More research work: [multimodal video classification](https://github.com/prblydv
 | Machine learning | PyTorch, Hugging Face, scikit-learn |
 
 1. **MEng Computer Science** — University of Birmingham.
-2. **SHL Kaggle assessment** — recorded **5th place** on the public leaderboard, with **0.3141 RMSE**, at the **15 October 2026** snapshot. [Method and evaluation details](https://github.com/prblydv/shl-grammar-scoring).
+2. **Kaggle grammar-scoring challenge** — recorded **5th place** on the public leaderboard, with **0.3141 RMSE**, at the **15 October 2026** snapshot.
 3. **JEE Advanced** — All India Rank **7,999**.
 
 ## 4. Contact
