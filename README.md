@@ -1,6 +1,6 @@
 ![Prabal Pratap Singh — Software Engineer](assets/profile-hero.svg)
 
-I’m **Prabal**, a software engineer in London with an **MEng in Computer Science from the University of Birmingham**.
+I’m **Prabal**, a software engineer in London with a **First Class MEng in Computer Science from the University of Birmingham**.
 
 I build desktop applications, web products, and systems software. My projects range from financial dashboards and client–server applications to Python/C++ engines and machine-learning experiments. I care about clear interfaces, understandable code, and checking that things work.
 
@@ -34,7 +34,7 @@ More research work: [time-series forecasting](https://github.com/prblydv/Forex-M
 | Development | Git, Docker, Linux, Jupyter |
 | Machine learning | PyTorch, Hugging Face, scikit-learn |
 
-1. **MEng Computer Science** — University of Birmingham.
+1. **MEng Computer Science — First Class** — University of Birmingham.
 2. **Kaggle grammar-scoring challenge** — recorded **5th place** on the public leaderboard, with **0.3141 RMSE**, at the **15 October 2026** snapshot.
 3. **JEE Advanced** — All India Rank **7,999**.
 
