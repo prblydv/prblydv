@@ -1,6 +1,5 @@
 # Prabal Pratap Singh
 
-**Software Engineer · London**
 
 First Class MEng in Computer Science, University of Birmingham.
 
