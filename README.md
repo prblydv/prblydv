@@ -1,6 +1,8 @@
-![Prabal Pratap Singh — Software Engineer](assets/profile-hero.svg)
+# Prabal Pratap Singh
 
-I’m **Prabal**, a software engineer in London with a **First Class MEng in Computer Science from the University of Birmingham**.
+**Software Engineer · London**
+
+First Class MEng in Computer Science, University of Birmingham.
 
 I build desktop applications, web products, and systems software. My projects range from financial dashboards and client–server applications to Python/C++ engines and machine-learning experiments. I care about clear interfaces, understandable code, and checking that things work.
 
