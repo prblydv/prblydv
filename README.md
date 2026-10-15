@@ -33,6 +33,12 @@ More research work: [time-series forecasting](https://github.com/prblydv/Forex-M
 | Development | Git, Docker, Linux, Jupyter |
 | Machine learning | PyTorch, Hugging Face, scikit-learn |
 
-## 4. Contact
+## 4. GitHub activity
+
+![Public repositories, stars, year-to-date activity, and source languages](assets/github-stats.svg)
+
+<sub>Activity is year to date, as shown in the graphic. Language shares measure source bytes in original public repositories, excluding notebooks. Counts reflect publicly visible GitHub data.</sub>
+
+## 5. Contact
 
 [Email](mailto:yadavsk731@gmail.com) · [LinkedIn](https://www.linkedin.com/in/prabalsingh12/) · [LeetCode](https://leetcode.com/u/prblydv/)
