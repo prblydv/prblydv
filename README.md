@@ -20,16 +20,6 @@ Hi, I’m Prabal completed MEng Computer Science at the University of Birmingham
 - Deep learning, especially neural architecture design and interpretability
 - Financial modeling and algorithmic trading
 - Scalable backend systems and dev workflows
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
-brew install node
-node -v
-npm -v
-git clone <your-repo-url>
-cd wingmanio
-cd /path/to/wingmanio
-chmod +x ./create-desktop-dmg.sh
-./create-desktop-dmg.sh
-open desktop/dist
 
 ---
 
