@@ -1,7 +1,7 @@
 # Prabal Pratap Singh
 
 
-First Class MEng in Computer Science, University of Birmingham.
+First Class MEng(4 yr Full Time) in Computer Science, University of Birmingham.
 
 I build desktop applications, web products, and systems software. My projects range from financial dashboards and client–server applications to Python/C++ engines and machine-learning experiments. I care about clear interfaces, understandable code, and checking that things work. my focus extends to building practical open-source utilities and templates that help other developers build faster.
 
