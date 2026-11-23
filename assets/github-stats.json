@@ -1,12 +1,12 @@
 {
   "username": "prblydv",
-  "updated_date_utc": "2026-11-22",
+  "updated_date_utc": "2026-11-23",
   "period_start": "2026-01-01",
-  "period_end": "2026-11-22",
-  "public_repositories": 20,
+  "period_end": "2026-11-23",
+  "public_repositories": 21,
   "stars_on_original_public_repositories": 84,
-  "visible_contributions": 150,
-  "active_days": 36,
+  "visible_contributions": 151,
+  "active_days": 37,
   "monthly_visible_contributions": [
     {
       "month": "2026-01",
@@ -50,84 +50,89 @@
     },
     {
       "month": "2026-11",
-      "count": 1
+      "count": 2
     }
   ],
   "languages": [
     {
       "name": "Python",
-      "bytes": 6796107,
-      "percent": 75.66174876753783
+      "bytes": 6827171,
+      "percent": 68.38157183330739
     },
     {
       "name": "TypeScript",
       "bytes": 715378,
-      "percent": 7.964375856622575
+      "percent": 7.1652917577379815
+    },
+    {
+      "name": "HTML",
+      "bytes": 709109,
+      "percent": 7.102500877910451
+    },
+    {
+      "name": "Swift",
+      "bytes": 589198,
+      "percent": 5.9014612877048265
     },
     {
       "name": "Java",
       "bytes": 558527,
-      "percent": 6.2181377594388385
-    },
-    {
-      "name": "HTML",
-      "bytes": 327660,
-      "percent": 3.6478720245533873
+      "percent": 5.594257734476209
     },
     {
       "name": "C++",
       "bytes": 280159,
-      "percent": 3.1190385720773133
+      "percent": 2.8060982774926195
     },
     {
       "name": "Kotlin",
       "bytes": 160186,
-      "percent": 1.7833669905545655
+      "percent": 1.6044376895920986
     },
     {
       "name": "Shell",
       "bytes": 46590,
-      "percent": 0.5186911970455421
+      "percent": 0.4666497194392511
     },
     {
       "name": "JavaScript",
       "bytes": 43805,
-      "percent": 0.48768550947799894
+      "percent": 0.438754903628169
     },
     {
       "name": "CSS",
       "bytes": 25219,
-      "percent": 0.280765685732808
+      "percent": 0.25259582044512713
     },
     {
       "name": "SCSS",
       "bytes": 13146,
-      "percent": 0.146355751799972
+      "percent": 0.13167154350178997
     },
     {
       "name": "Batchfile",
       "bytes": 7862,
-      "percent": 0.08752844368259394
+      "percent": 0.0787465141496328
     },
     {
       "name": "PowerShell",
       "bytes": 3481,
-      "percent": 0.03875432618406379
+      "percent": 0.034866015740889315
     },
     {
       "name": "Inno Setup",
       "bytes": 1919,
-      "percent": 0.02136442170273439
+      "percent": 0.019220880266235734
     },
     {
       "name": "Dockerfile",
       "bytes": 1434,
-      "percent": 0.015964867494383073
+      "percent": 0.014363075717447651
     },
     {
       "name": "Visual Basic .NET",
       "bytes": 750,
-      "percent": 0.008349826095388636
+      "percent": 0.007512068889878478
     }
   ],
   "scope": "Activity counts are from the publicly visible GitHub calendar; they are not commit counts. Language shares use bytes in original public repositories, excluding Jupyter notebooks. Stars exclude forks. Repository count includes public forks. The current month is partial."
