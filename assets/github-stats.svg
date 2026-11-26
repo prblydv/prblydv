@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="390" viewBox="0 0 1000 390" role="img" aria-labelledby="title desc">
 <title id="title">Public GitHub activity</title>
-<desc id="desc">21 public repositories, 84 stars, 151 visible contributions and 37 active days in 2026 through 25 Nov 2026. Monthly activity and source-language shares are shown below.</desc>
+<desc id="desc">21 public repositories, 84 stars, 151 visible contributions and 37 active days in 2026 through 26 Nov 2026. Monthly activity and source-language shares are shown below.</desc>
 <rect x=".5" y=".5" width="999" height="389" rx="16" fill="#ffffff" stroke="#e5e5e7"/>
 <text x="32" y="59" font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="32" fill="#1d1d1f" font-weight="600" text-anchor="start">21</text>
 <text x="32" y="85" font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#6e6e73" font-weight="400" text-anchor="start">Public repositories</text>
@@ -48,26 +48,26 @@
 <text x="474.9545454545455" y="277.06493506493507" font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="10" fill="#6e6e73" font-weight="400" text-anchor="middle">2</text>
 <path d="M32 292H500" stroke="#e5e5e7"/>
 <text x="554" y="174" font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#1d1d1f" font-weight="400" text-anchor="start">Python</text>
-<text x="966" y="174" font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#6e6e73" font-weight="400" text-anchor="end">68.4%</text>
+<text x="966" y="174" font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#6e6e73" font-weight="400" text-anchor="end">67.6%</text>
 <rect x="714" y="165" width="187" height="7" rx="3.5" fill="#f5f5f7"/>
-<rect x="714" y="165" width="127.87" height="7" rx="3.5" fill="#0071e3"/>
+<rect x="714" y="165" width="126.50" height="7" rx="3.5" fill="#0071e3"/>
 <text x="554" y="204" font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#1d1d1f" font-weight="400" text-anchor="start">TypeScript</text>
-<text x="966" y="204" font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#6e6e73" font-weight="400" text-anchor="end">7.2%</text>
+<text x="966" y="204" font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#6e6e73" font-weight="400" text-anchor="end">7.1%</text>
 <rect x="714" y="195" width="187" height="7" rx="3.5" fill="#f5f5f7"/>
-<rect x="714" y="195" width="13.40" height="7" rx="3.5" fill="#0071e3"/>
+<rect x="714" y="195" width="13.24" height="7" rx="3.5" fill="#0071e3"/>
 <text x="554" y="234" font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#1d1d1f" font-weight="400" text-anchor="start">HTML</text>
-<text x="966" y="234" font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#6e6e73" font-weight="400" text-anchor="end">7.1%</text>
+<text x="966" y="234" font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#6e6e73" font-weight="400" text-anchor="end">7.0%</text>
 <rect x="714" y="225" width="187" height="7" rx="3.5" fill="#f5f5f7"/>
-<rect x="714" y="225" width="13.28" height="7" rx="3.5" fill="#0071e3"/>
+<rect x="714" y="225" width="13.13" height="7" rx="3.5" fill="#0071e3"/>
 <text x="554" y="264" font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#1d1d1f" font-weight="400" text-anchor="start">Swift</text>
-<text x="966" y="264" font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#6e6e73" font-weight="400" text-anchor="end">5.9%</text>
+<text x="966" y="264" font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#6e6e73" font-weight="400" text-anchor="end">6.9%</text>
 <rect x="714" y="255" width="187" height="7" rx="3.5" fill="#f5f5f7"/>
-<rect x="714" y="255" width="11.04" height="7" rx="3.5" fill="#0071e3"/>
+<rect x="714" y="255" width="12.93" height="7" rx="3.5" fill="#0071e3"/>
 <text x="554" y="294" font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#1d1d1f" font-weight="400" text-anchor="start">Java</text>
-<text x="966" y="294" font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#6e6e73" font-weight="400" text-anchor="end">5.6%</text>
+<text x="966" y="294" font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#6e6e73" font-weight="400" text-anchor="end">5.5%</text>
 <rect x="714" y="285" width="187" height="7" rx="3.5" fill="#f5f5f7"/>
-<rect x="714" y="285" width="10.46" height="7" rx="3.5" fill="#0071e3"/>
-<text x="32" y="348" font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="11" fill="#6e6e73" font-weight="400" text-anchor="start">1 Jan – 25 Nov 2026 · current month is partial</text>
+<rect x="714" y="285" width="10.34" height="7" rx="3.5" fill="#0071e3"/>
+<text x="32" y="348" font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="11" fill="#6e6e73" font-weight="400" text-anchor="start">1 Jan – 26 Nov 2026 · current month is partial</text>
 <text x="554" y="348" font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="11" fill="#6e6e73" font-weight="400" text-anchor="start">By source bytes · notebooks and forks excluded</text>
-<text x="32" y="373" font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="10" fill="#6e6e73" font-weight="400" text-anchor="start">Public GitHub data · updated 25 Nov 2026</text>
+<text x="32" y="373" font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="10" fill="#6e6e73" font-weight="400" text-anchor="start">Public GitHub data · updated 26 Nov 2026</text>
 </svg>
